@@ -1,0 +1,11 @@
+h1{
+    color:aqua;
+}
+.wrapper{
+    display: flex;
+    justify-content:
+    height: 700px;
+}
+a{
+    text-decoration: none;
+}

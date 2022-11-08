@@ -1,0 +1,15 @@
+h1{
+    color:aqua;
+}
+h5{
+    
+}
+.wrapper{
+    display: flex;
+    justify-content:center;
+    align-items:center;
+    height: 500px;
+}
+a{
+    text-decoration: none;
+}

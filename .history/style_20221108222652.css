@@ -1,0 +1,19 @@
+h1{
+    color:aqua;
+}
+h5{
+    background-color:rgb(247, 150, 168);
+    height:30px;
+    width:100px;
+    line-height:30px;
+    border-radius:20px
+}
+.wrapper{
+    display: flex;
+    justify-content:center;
+    align-items:center;
+    height: 500px;
+}
+a{
+    text-decoration: none;
+}
